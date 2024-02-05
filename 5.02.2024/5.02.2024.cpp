@@ -23,7 +23,7 @@ public:
 	ConcreteBilder() {
 		currentBilder = nullptr;
 	}
-	void CreateProduct()
+	void createProduct()
 	{
 		cout << "ConcreteBilder::CreateProduct" << endl;
 		currentBilder = new Product();
