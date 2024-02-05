@@ -2,7 +2,6 @@
 
 using namespace std;
 
-
 // описание паттрена Builder
 class Product {
 public:
